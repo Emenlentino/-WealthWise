@@ -1,0 +1,6 @@
+matplotlib
+pandas
+openpyxl
+tk
+ttkbootstrap
+pyinstaller
